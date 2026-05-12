@@ -1,5 +1,9 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
-# Date:
+```
+Name : STEFFI J
+Reg no : 212224220107
+Date : 12.05.2026
+```
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
@@ -13,5 +17,7 @@ To write a yacc program to recognize a valid arithmetic expression that uses ope
 8.	Enter an arithmetic expression as input and the tokens are identified as output.
 # PROGRAM
 # OUTPUT
+<img width="1120" height="577" alt="Screenshot 2026-05-12 113610" src="https://github.com/user-attachments/assets/afeeabf1-cdee-4d04-948c-44accfd5432c" />
+
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
